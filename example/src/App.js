@@ -8,6 +8,7 @@ export default class App extends Component {
       <div>
         <ExampleComponent text='Modern React component module' />
         <ExampleComponent text='reactland' />
+        <ExampleComponent text='test' />
       </div>
     )
   }
